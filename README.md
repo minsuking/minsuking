@@ -1,14 +1,21 @@
 # Minsu Kim
 
-Senior Software Engineer with 11+ years of experience building software across backend systems, AI systems, algorithmic problem solving, and open-source collaboration.
+Senior Software Engineer with 11+ years of experience building software across
+backend systems, AI systems, algorithmic problem solving, and open-source
+collaboration.
 
 ## Professional Summary
 
-I am a backend-focused engineer who works close to system boundaries: APIs, integrations, reliability, data flow, and operational behavior.
+I am a backend-focused engineer who works close to system boundaries: APIs,
+integrations, reliability, data flow, and operational behavior.
 
-My current work is moving deeper into AI systems, especially retrieval, RAG, evaluation, and the engineering discipline needed to make AI features useful beyond demos.
+My current work is moving deeper into AI systems, especially retrieval, RAG,
+evaluation, and the engineering discipline needed to make AI features useful
+beyond demos.
 
-Healthcare is part of my domain background, but the main story here is software engineering: building clear systems, solving hard problems, and keeping public work honest.
+Healthcare is part of my domain background, but the main story here is software
+engineering: building clear systems, solving hard problems, and keeping public
+work honest.
 
 ## Selected Highlights
 
@@ -29,14 +36,17 @@ Healthcare is part of my domain background, but the main story here is software 
 
 - Prefer simple interfaces and explicit trade-offs.
 - Build for debugging, testing, and change.
-- Treat AI features as systems: data quality, evaluation, latency, and reliability matter.
+- Treat AI features as systems: data quality, evaluation, latency, and
+  reliability matter.
 - Do not overstate public work; link what can be verified.
 
 ## Open Source
 
-My current open-source focus is the [MONAI](https://github.com/Project-MONAI/MONAI) ecosystem.
+My current open-source focus is the
+[MONAI](https://github.com/Project-MONAI/MONAI) ecosystem.
 
-I keep forks separate from verified upstream contributions and link public contribution records directly when they are available.
+I keep forks separate from verified upstream contributions and link public
+contribution records directly when they are available.
 
 ## Selected Projects
 
