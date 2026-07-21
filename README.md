@@ -1,66 +1,114 @@
 # Minsu Kim
 
-Senior Software Engineer with 11+ years of experience building software across
-backend systems, AI systems, algorithmic problem solving, and open-source
-collaboration.
+**Senior Software Engineer** building backend platforms, AI systems, and production-grade software.
 
-## Professional Summary
+I have **11+ years of experience** designing enterprise backend systems, distributed integrations, and performance-critical applications. My current work focuses on retrieval systems, AI infrastructure, and building software that remains reliable, maintainable, and observable in production.
 
-I am a backend-focused engineer who works close to system boundaries: APIs,
-integrations, reliability, data flow, and operational behavior.
-
-My current work is moving deeper into AI systems, especially retrieval, RAG,
-evaluation, and the engineering discipline needed to make AI features useful
-beyond demos.
-
-Healthcare is part of my domain background, but the main story here is software
-engineering: building clear systems, solving hard problems, and keeping public
-work honest.
+---
 
 ## Selected Highlights
 
-- 11+ years of software engineering experience.
-- Backend systems as the primary engineering foundation.
-- AI systems focus across retrieval, RAG, and evaluation workflows.
-- Algorithmic problem solving through public practice and continued refinement.
-- Open-source focus currently centered on MONAI.
+- 11+ years of professional software engineering experience
+- Building enterprise backend systems and AI retrieval platforms
+- Global Rank **#10** — LeetCode Weekly Contest 504
+- **LeetCode Guardian** (Top 1%)
+- Bronze Medalist — Korean Olympiad in Informatics
+- 1st Place — Republic of Korea Air Force Cyber Security Competition
+
+---
 
 ## Current Focus
 
-- Making backend work more visible through clean public projects.
-- Building practical AI systems work around retrieval quality and evaluation.
-- Improving algorithm practice into a clearer technical signal.
-- Keeping open-source activity precise, verifiable, and useful.
+- Backend Architecture
+- Enterprise AI Systems
+- Retrieval-Augmented Generation (RAG)
+- Hybrid Search & Retrieval Evaluation
+- Open Source Engineering
+- Performance & Reliability
+
+---
 
 ## Engineering Principles
 
-- Prefer simple interfaces and explicit trade-offs.
-- Build for debugging, testing, and change.
-- Treat AI features as systems: data quality, evaluation, latency, and
-  reliability matter.
-- Do not overstate public work; link what can be verified.
+I enjoy building software that remains understandable years after it is written.
 
-## Open Source
+- Design for maintainability before complexity.
+- Prefer measurable engineering over assumptions.
+- Build systems that are observable and testable.
+- Keep interfaces simple and explicit.
+- Treat AI applications as engineering systems where retrieval quality, evaluation, latency, reliability, and safety matter equally.
 
-My current open-source focus is the
-[MONAI](https://github.com/Project-MONAI/MONAI) ecosystem.
-
-I keep forks separate from verified upstream contributions and link public
-contribution records directly when they are available.
+---
 
 ## Selected Projects
 
-- [LeetCode_Practice](https://github.com/minsuking/LeetCode_Practice)
-- [lunchgo](https://github.com/minsuking/lunchgo)
-- [minsuking/MONAI](https://github.com/minsuking/MONAI)
+### Enterprise Retrieval Platform *(Public version in progress)*
+
+A production-inspired retrieval platform demonstrating document ingestion, embeddings, hybrid retrieval, reranking, evaluation, and local LLM integration using synthetic enterprise documents.
+
+### Algorithm Portfolio
+
+Curated algorithm solutions, contest notes, and problem-solving patterns.
+
+- LeetCode: https://leetcode.com/u/minsuking/
+- Repository: https://github.com/minsuking/LeetCode_Practice
+
+### Backend Automation
+
+Developer-focused automation and backend tooling designed to improve operational efficiency.
+
+---
+
+## Open Source
+
+I'm currently preparing meaningful upstream contributions to the **MONAI** ecosystem.
+
+My goal is to contribute production-quality improvements in documentation, testing, developer experience, and engineering quality. Verified upstream contributions will be linked here after they become public.
+
+---
 
 ## Core Technologies
 
-- Java, Python, C++
-- Backend systems, APIs, integrations, testing
-- Retrieval, RAG, evaluation workflows
-- Algorithms, data structures, system design
+**Languages**
 
-## Contact
+- Java
+- Python
+- C++
 
-- GitHub: [minsuking](https://github.com/minsuking)
+**Backend**
+
+- Spring
+- FastAPI
+- REST APIs
+
+**Databases**
+
+- PostgreSQL
+- Oracle
+- Redis
+
+**AI Systems**
+
+- Retrieval-Augmented Generation (RAG)
+- Semantic Search
+- Hybrid Search
+- Vector Retrieval
+- Local LLM Infrastructure
+
+**Engineering**
+
+- Distributed Systems
+- Docker
+- GitHub Actions
+- Performance Optimization
+- System Design
+
+---
+
+## Connect
+
+- Website: https://minsu.dev
+- LinkedIn: https://linkedin.com/in/kingminsu
+- LeetCode: https://leetcode.com/u/minsuking/
+- GitHub: https://github.com/minsuking
+- Email: iam@minsu.dev
