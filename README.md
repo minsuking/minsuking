@@ -107,7 +107,6 @@ My goal is to contribute production-quality improvements in documentation, testi
 
 ## Connect
 
-- Website: https://minsu.dev
 - LinkedIn: https://linkedin.com/in/kingminsu
 - LeetCode: https://leetcode.com/u/minsuking/
 - GitHub: https://github.com/minsuking
